@@ -1,4 +1,4 @@
-# **Laporan Proyek Machine Learning - Abdul Azis**
+# **Laporan Proyek Machine Learning - Haekal**
 
 ## **Project Overview**
 ### **Latar Belakang**
